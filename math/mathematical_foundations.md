@@ -75,15 +75,11 @@ For N(0,1), the algorithm converges to the global optimum within ~50 iterations.
 
 The optimal 7-level codebook for N(0,1) is:
 
-$$
-\begin{aligned}
-\text{Levels:} \quad & \{-2.033369,\; -1.188147,\; -0.560577,\; 0.0, \\
-                     & \qquad 0.560577,\; 1.188147,\; 2.033369\} \\
-\text{Boundaries:} \quad & \{-1.610758,\; -0.874362,\; -0.280288, \\
-                         & \qquad 0.280288,\; 0.874362,\; 1.610758\} \\
-\text{MSE:} \quad & 0.044
-\end{aligned}
-$$
+> **Levels:** $\{-2.033369, -1.188147, -0.560577, 0.0, 0.560577, 1.188147, 2.033369\}$
+>
+> **Boundaries:** $\{-1.610758, -0.874362, -0.280288, 0.280288, 0.874362, 1.610758\}$
+>
+> **MSE:** $0.044$
 
 #### Comparison with Fewer Levels
 
