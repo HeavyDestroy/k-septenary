@@ -1,0 +1,22 @@
+{
+  "model": "",
+  "prompt": "Explain the concept of entropy in information theory. Include Claude Shannon's contribution and give a concrete example.",
+  "max_tokens": 128,
+  "temperature": 0.7,
+  "seeds": 2,
+  "bf16": {
+    "avg_tokens_per_sec": 7.448530460530511,
+    "outputs": [
+      "\n\n<think>\nHere's a thinking process:\n\n1.  **Understand User Request:**\n   - **Topic:** Entropy in information theory\n   - **Required Elements:** \n     - Explain the concept\n     - Include Claude Shannon's contribution\n     - Provide a concrete example\n   - **Goal:** Clear, accurate, well-structured explanation suitable for someone learning about information theory.\n\n2.  **Deconstruct the Concept of Entropy in Information Theory:**\n   - What is it? A measure of uncertainty, unpredictability, or information content in a random variable/message source.\n   - Key intuition: More",
+      "\n\n<think>\nHere's a thinking process:\n\n1.  **Understand User Request:**\n   - **Topic:** Entropy in information theory\n   - **Key Elements Required:** \n     - Explain the concept\n     - Include Claude Shannon's contribution\n     - Provide a concrete example\n   - **Goal:** Clear, accurate, structured explanation suitable for someone learning about information theory.\n\n2.  **Deconstruct the Concept of Entropy in Information Theory:**\n   - What is it? A measure of uncertainty, randomness, or information content in a random variable/message source.\n   - Mathematical definition: H(X)"
+    ]
+  },
+  "k_septenary": {
+    "avg_tokens_per_sec": 7.606297396045809,
+    "outputs": [
+      "\n\n<think>\nHere's a thinking process:\n\n1.  **Understand User Query:**\n   - **Topic:** Entropy in information theory\n   - **Required Elements:** \n     - Explain the concept of entropy in information theory\n     - Include Claude Shannon's contribution\n     - Provide a concrete example\n   - Need to be clear, accurate, and structured.\n\n2. **Deconstruct the Request:**\n   - **Concept of entropy in information theory:** What is it? How is it defined? What does it measure?\n   - **Claude Shannon's contribution:** Historical context, 1948 paper",
+      "\n\n<think>\nHere's a thinking process:\n\n1.  **Understand User Request:**\n   - **Topic:** Entropy in information theory\n   - **Key Requirements:** \n     - Explain the concept\n     - Include Claude Shannon's contribution\n     - Provide a concrete example\n   - Need to be clear, accurate, and structured.\n\n2.  **Deconstruct the Request:**\n   - Define entropy in information theory\n   - Explain Shannon's contribution\n   - Provide a concrete example\n   - Keep it clear, accurate, and accessible\n\n3.  **Core Concepts to Cover:**\n   - What"
+    ]
+  },
+  "speed_delta_pct": 2.118094788647218
+}
